@@ -33,7 +33,7 @@ Please go to folder `./application_glasgow/` and run `glasgow.py` to obtain the 
 
 
 ## License
-Copyright 2023 Wenqin Du, Rundong Ding, Yingying Fan and Jinchi Lv
+Copyright 2024 Wenqin Du, Rundong Ding, Yingying Fan and Jinchi Lv
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
