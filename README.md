@@ -21,7 +21,7 @@ Please go to folder `./simulation/infer_ADET/simplified_model/` and run `infer-A
 
 3) **Infer the ADET - misspecified propensity scores:** Please go to folder `./simulation/infer_ADET/mis_propensity/` and run `setting*.py`, where `*` is 1,2,3,4.
 
-4) **Infer the neighborhood size:** Please go to folder `./simulation/infer_k0/k0_#/`, where `*` is 0,1,2, and run `setting*.py`, where `*` is 1,2,3,4.
+4) **Infer the neighborhood size:** Please go to folder `./simulation/infer_k0/k0_#/`, where `#` is 0,1,2, and run `setting*.py`, where `*` is 1,2,3,4.
 
 ### (III) Data Application
 
@@ -29,7 +29,7 @@ Please go to folder `./application_glasgow/` and run `glasgow.py` to obtain the 
 
 ## Packed Algorithm Code for Practitioners
 
-`network_utils.py:` Wrapped functions for infer the ADET (`infer_tau`) and neighborhood size (`candidate_set_k_bic`,`confident_set_k`).
+`network_utils.py:` Wrapped functions for infer the ADET (`infer_tau`) and neighborhood size (`candidate_set_k_bic`, `confident_set_k`).
 
 
 ## License
