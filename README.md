@@ -29,7 +29,7 @@ Please go to folder `./application_glasgow/` and run `glasgow.py` to obtain the 
 
 ## Packed Algorithm Code for Practitioners
 
-`network_utils.py:` Wrapped functions for infer the ADET (`infer_tau`) and neighborhood size (`candidate_set_k_bic`, `confident_set_k`).
+`network_utils.py:` Wrapped functions for infer the ADET (`infer_tau`, `sfl_grp`) and neighborhood size (`candidate_set_k_bic`, `confident_set_k`).
 
 
 ## License
