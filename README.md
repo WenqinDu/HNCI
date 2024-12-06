@@ -9,11 +9,11 @@ The code is for reproducing the numerical experiments and data example results i
 
 ## Guidelines for Result Replication
 
-### * Understanding the Role of Neighborhood Size in Inferring the ADET
+### (I) Understanding the Role of Neighborhood Size in Inferring the ADET
   
 Please go to folder `./simulation/infer_ADET/simplified_model/` and run `infer-ADET-simplified-model.py`.
 
-### * Simulation Results under the General Model
+### (II) Simulation Results under the General Model
 
 1) **Infer the ADET:** Please go to folder `./simulation/infer_ADET/general_setting/` and run `setting*.py`, where `*` is 1,2,3,4.
 
@@ -23,7 +23,7 @@ Please go to folder `./simulation/infer_ADET/simplified_model/` and run `infer-A
 
 4) **Infer the neighborhood size:** Please go to folder `./simulation/infer_k0/k0_#/`, where `*` is 0,1,2, and run `setting*.py`, where `*` is 1,2,3,4.
 
-### * Data Application
+### (III) Data Application
 
 Please go to folder `./application_glasgow/` and run `glasgow.py` to obtain the results. The original data files are avalavle <a href="https://www.stats.ox.ac.uk/~snijders/siena/Glasgow_data.htm">here</a>.
 
